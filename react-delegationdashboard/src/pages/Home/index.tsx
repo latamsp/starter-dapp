@@ -74,7 +74,7 @@ const Home = () => {
               <div className="card my-spacer text-center d-flex just">
                 <div className="card-body p-spacer">
                   <a href="https://latamsp.com/"><img className="logo" src={mainLogo} height="40"/></a>
-                  <h4 className="p-spacer">Elrond Delegation Manager</h4>
+                  <h4 className="p-spacer">Multiversx Delegation Manager</h4>
                   <p className="p-spacer"></p>
 
                   <div className="cards d-flex flex-wrap mr-spacer">
